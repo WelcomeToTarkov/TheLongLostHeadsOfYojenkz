@@ -1,2 +1,0 @@
-# TheLongLostHeadsOfYojenkz
-heads, broh

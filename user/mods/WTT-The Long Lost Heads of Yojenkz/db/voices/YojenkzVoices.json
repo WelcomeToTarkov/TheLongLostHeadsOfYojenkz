@@ -1,0 +1,34 @@
+{
+    "Duke": {
+        "locale": {
+            "en": {
+                "Duke": "Duke"
+            }
+        },
+        "addVoiceToPlayer": true
+    },
+    "BoB": {
+        "locale": {
+            "en": {
+                "BoB": "Butcher of Blaviken"
+            }
+        },
+        "addVoiceToPlayer": true
+    },
+    "Homelander": {
+        "locale": {
+            "en": {
+                "Homelander": "Homelander"
+            }
+        },
+        "addVoiceToPlayer": true
+    },
+    "Norman": {
+        "locale": {
+            "en": {
+                "Norman": "Norman"
+            }
+        },
+        "addVoiceToPlayer": true
+    }
+}

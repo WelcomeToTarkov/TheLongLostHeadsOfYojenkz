@@ -1,0 +1,124 @@
+{
+    "manifest": [
+        {
+            "key": "heads/bigbosshead.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/chrishead.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/dantehead.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/dukehead.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/gerryhead.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/kazhead.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/landerhead.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/reedushead.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/rohead.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "heads/samhead.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "voices/BoB/Audio/geralt_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/BoB/Voices/geralt_voice.bundle",
+            "dependencyKeys": [
+                "voices/BoB/Audio/geralt_audio.bundle"
+            ]
+        },
+        {
+            "key": "voices/Duke/Audio/duke_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Duke/Voices/duke_voice.bundle",
+            "dependencyKeys": [
+                "voices/Duke/Audio/duke_audio.bundle"
+            ]
+        },
+        {
+            "key": "voices/Homelander/Audio/homelander_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Homelander/Voices/homelander_voice.bundle",
+            "dependencyKeys": [
+                "voices/Homelander/Audio/homelander_audio.bundle"
+            ]
+        },
+        {
+            "key": "voices/Norman/Audio/norman_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Norman/Voices/norman_voice.bundle",
+            "dependencyKeys": [
+                "voices/Norman/Audio/norman_audio.bundle"
+            ]
+        }
+    ]
+}

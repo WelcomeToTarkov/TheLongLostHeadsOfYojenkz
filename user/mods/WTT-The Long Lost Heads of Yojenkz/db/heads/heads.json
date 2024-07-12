@@ -1,0 +1,92 @@
+[
+{
+    "ID": "bigbosshead",
+    "Path": "heads/bigbosshead.bundle",
+    "Name": "Big Boss",
+    "Shortname": "BB",
+    "Description": "Are you really reading this description dumbass?",
+    "AddtoPlayer": true,
+    "Side": ["Bear", "Usec"]
+},
+{
+    "ID": "chrishead",
+    "Path": "heads/chrishead.bundle",
+    "Name": "Chris Redfield",
+    "Shortname": "CR",
+    "Description": "Are you really reading this description dumbass?",
+    "AddtoPlayer": true,
+    "Side": ["Bear", "Usec"]
+},
+{
+    "ID": "dantehead",
+    "Path": "heads/dantehead.bundle",
+    "Name": "Dante",
+    "Shortname": "D",
+    "Description": "Are you really reading this description dumbass?",
+    "AddtoPlayer": true,
+    "Side": ["Bear", "Usec"]
+},
+{
+    "ID": "dukehead",
+    "Path": "heads/dukehead.bundle",
+    "Name": "Duke Nukem",
+    "Shortname": "DN",
+    "Description": "Are you really reading this description dumbass?",
+    "AddtoPlayer": true,
+    "Side": ["Bear", "Usec"]
+},
+{
+    "ID": "gerryhead",
+    "Path": "heads/gerryhead.bundle",
+    "Name": "Geralt",
+    "Shortname": "GR",
+    "Description": "Are you really reading this description dumbass?",
+    "AddtoPlayer": true,
+    "Side": ["Bear", "Usec"]
+},
+{
+    "ID": "kazhead",
+    "Path": "heads/kazhead.bundle",
+    "Name": "Kaz Miller",
+    "Shortname": "KM",
+    "Description": "Are you really reading this description dumbass?",
+    "AddtoPlayer": true,
+    "Side": ["Bear", "Usec"]
+},
+{
+    "ID": "landerhead",
+    "Path": "heads/landerhead.bundle",
+    "Name": "Homelander",
+    "Shortname": "HL",
+    "Description": "Are you really reading this description dumbass?",
+    "AddtoPlayer": true,
+    "Side": ["Bear", "Usec"]
+},
+{
+    "ID": "reedushead",
+    "Path": "heads/reedushead.bundle",
+    "Name": "Norman Reedus",
+    "Shortname": "NR",
+    "Description": "Are you really reading this description dumbass?",
+    "AddtoPlayer": true,
+    "Side": ["Bear", "Usec"]
+},
+{
+    "ID": "rohead",
+    "Path": "heads/rohead.bundle",
+    "Name": "Revolver Ocelot",
+    "Shortname": "RO",
+    "Description": "Are you really reading this description dumbass?",
+    "AddtoPlayer": true,
+    "Side": ["Bear", "Usec"]
+},
+{
+    "ID": "samhead",
+    "Path": "heads/samhead.bundle",
+    "Name": "Sam Fisher",
+    "Shortname": "SF",
+    "Description": "Are you really reading this description dumbass?",
+    "AddtoPlayer": true,
+    "Side": ["Bear", "Usec"]
+}
+]
