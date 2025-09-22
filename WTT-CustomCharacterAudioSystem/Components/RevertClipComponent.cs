@@ -1,4 +1,5 @@
 ﻿using System;
+using EFT.UI;
 using UnityEngine;
 
 namespace CustomCharacterAudioSystem.Components;

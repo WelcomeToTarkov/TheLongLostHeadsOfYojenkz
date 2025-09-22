@@ -1,6 +1,7 @@
 ﻿using System;
 using BepInEx.Configuration;
 using CustomCharacterAudioSystem.Components;
+using EFT.UI;
 
 namespace CustomCharacterAudioSystem.Configuration
 {
