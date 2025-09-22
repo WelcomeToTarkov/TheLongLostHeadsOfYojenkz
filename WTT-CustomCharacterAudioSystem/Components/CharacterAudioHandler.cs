@@ -21,7 +21,10 @@ public class CharacterAudioHandler : MonoBehaviour
         {"Duke Nukem", "WTT-CustomCharacterAudioSystem.Audio.duke_nukem.wav"},
         {"Geralt", "WTT-CustomCharacterAudioSystem.Audio.geralt.wav"},
         {"Norman Reedus", "WTT-CustomCharacterAudioSystem.Audio.norman_reedus.wav"},
-        {"Sam Fisher", "WTT-CustomCharacterAudioSystem.Audio.sam_fisher.wav"}
+        {"Sam Fisher", "WTT-CustomCharacterAudioSystem.Audio.sam_fisher.wav"},
+        {"Marin", "WTT-CustomCharacterAudioSystem.Audio.cheech_marin.wav"},
+        {"Chong", "WTT-CustomCharacterAudioSystem.Audio.tommy_chong.wav"},
+        {"Johnny Silverhand", "WTT-CustomCharacterAudioSystem.Audio.johnny_silverhand.wav"}
     };
     private AudioSource _audioSource;
     private bool _isInitialized;

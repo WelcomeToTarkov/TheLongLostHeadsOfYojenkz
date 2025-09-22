@@ -21,7 +21,10 @@ public abstract class AudioHelpers
         {"6747aa7a084084dbe8cb7958", "WTT-CustomCharacterAudioSystem.Audio.duke_nukem.wav"},
         {"6747aa80c8deb234cb9d4950", "WTT-CustomCharacterAudioSystem.Audio.geralt.wav"},
         {"6747aa90dfdb9c64d1dc2ee0", "WTT-CustomCharacterAudioSystem.Audio.norman_reedus.wav"},
-        {"6747aa9ab2c23aa745b468ac", "WTT-CustomCharacterAudioSystem.Audio.sam_fisher.wav"}
+        {"6747aa9ab2c23aa745b468ac", "WTT-CustomCharacterAudioSystem.Audio.sam_fisher.wav"},
+        {"8a572166190d4833babf811d", "WTT-CustomCharacterAudioSystem.Audio.johnny_silverhand.wav" },
+        {"3fe94530f8524f53953849ed", "WTT-CustomCharacterAudioSystem.Audio.cheech_marin.wav"},
+        {"2e10f56dcbf747e89c15878f", "WTT-CustomCharacterAudioSystem.Audio.tommy_chong.wav"}
     };
     
     public static byte[] LoadCharacterAudio(string resourcePath)

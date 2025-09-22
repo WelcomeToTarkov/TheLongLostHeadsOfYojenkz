@@ -134,9 +134,13 @@
     <EmbeddedResource Include="Audio\norman_reedus.wav" />
     <EmbeddedResource Include="Audio\revolver_ocelot.wav" />
     <EmbeddedResource Include="Audio\sam_fisher.wav" />
+    <EmbeddedResource Include="Audio\cheech_marin.wav" />
+    <EmbeddedResource Include="Audio\tommy_chong.wav" />
+    <EmbeddedResource Include="Audio\johnny_silverhand.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy "$(TargetPath)" "$(ProjectDir)\..\..\BepInEx\plugins\$(TargetFileName)"</PostBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
   </PropertyGroup>
 </Project>
