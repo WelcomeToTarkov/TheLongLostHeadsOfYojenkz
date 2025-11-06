@@ -1,0 +1,34 @@
+{
+    "6747aa4495b4845a0f3d9f98": {
+        "locales": {
+            "en": "Duke"
+        },
+        "name": "Duke",
+        "bundlePath": "voices/Duke/Voices/duke_voice.bundle",
+        "addVoiceToPlayer": true
+    },
+    "6747aa4af8e139c2412e85b2": {
+        "locales": {
+            "en": "Butcher of Blaviken"
+        },
+        "name": "Geralt",
+        "bundlePath": "voices/BoB/Voices/geralt_voice.bundle",
+        "addVoiceToPlayer": true
+    },
+    "6747aa4fede4c8040943cc07": {
+        "locales": {
+            "en": "Homelander"
+        },
+        "name": "Homelander",
+        "bundlePath": "voices/Homelander/Voices/homelander_voice.bundle",
+        "addVoiceToPlayer": true
+    },
+    "6747aa53299a1dadafd0f5c0": {
+        "locales": {
+            "en": "Norman"
+        },
+        "name": "Norman",
+        "bundlePath": "voices/Norman/Voices/norman_voice.bundle",
+        "addVoiceToPlayer": true
+    }
+}

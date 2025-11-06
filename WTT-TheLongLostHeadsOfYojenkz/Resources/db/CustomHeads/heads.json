@@ -1,0 +1,82 @@
+{
+    "6747aa6da1f90f53496a3409": {
+        "path": "heads/bigbosshead.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Big Boss"
+        }
+    },
+    "6747aa715be2c2e443264f32":{
+        "path": "heads/chrishead.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Chris Redfield"
+        }
+    },
+    "6747aa75291e2a53acb3eb40" :{
+        "path": "heads/dantehead.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Dante"
+        }
+    },
+    "6747aa7a084084dbe8cb7958":{
+        "path": "heads/dukehead.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Duke Nukem"
+        }
+    },
+    "6747aa80c8deb234cb9d4950": {
+        "path": "heads/gerryhead.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Geralt"
+        }
+    },
+    "6747aa8655e907f08493bf81": {
+        "path": "heads/kazhead.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Kaz Miller"
+        }
+    },
+    "6747aa8b30c9993df151d732": {
+        "path": "heads/landerhead.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Homelander"
+        }
+    },
+    "6747aa90dfdb9c64d1dc2ee0": {
+        "path": "heads/reedushead.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Norman Reedus"
+        }
+    },
+    "6747aa95abe95c1bba17c428": {
+        "path": "heads/rohead.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Revolver Ocelot"
+        }
+    },
+    "6747aa9ab2c23aa745b468ac": {
+        "path": "heads/samhead.bundle",
+        "addHeadToPlayer": true,
+        "side": ["Bear", "Usec"],
+        "locales": {
+            "en": "Sam Fisher"
+        }
+    }
+}
