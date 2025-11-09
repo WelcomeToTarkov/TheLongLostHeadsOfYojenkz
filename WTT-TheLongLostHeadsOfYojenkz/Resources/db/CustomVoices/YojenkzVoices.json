@@ -30,5 +30,13 @@
         "name": "Norman",
         "bundlePath": "voices/Norman/Voices/norman_voice.bundle",
         "addVoiceToPlayer": true
+    },
+    "690de7656fad179372faa257": {
+        "locales": {
+            "en": "Chris T."
+        },
+        "name": "Redfield",
+        "bundlePath": "voices/Redfield/Voices/redfield_voice.bundle",
+        "addVoiceToPlayer": true
     }
 }
