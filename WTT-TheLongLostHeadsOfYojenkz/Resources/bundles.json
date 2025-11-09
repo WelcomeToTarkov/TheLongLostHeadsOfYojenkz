@@ -119,6 +119,16 @@
             "dependencyKeys": [
                 "voices/Norman/Audio/norman_audio.bundle"
             ]
+        },
+        {
+            "key": "voices/Redfield/Audio/redfield_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Redfield/Voices/redfield_voice.bundle",
+            "dependencyKeys": [
+                "voices/Redfield/Audio/redfield_audio.bundle"
+            ]
         }
     ]
 }
